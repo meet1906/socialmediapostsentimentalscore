@@ -1,0 +1,4 @@
+flask
+gunicorn
+azure-ai-textanalytics
+
